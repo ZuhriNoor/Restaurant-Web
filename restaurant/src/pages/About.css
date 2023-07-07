@@ -1,0 +1,22 @@
+.main1-div{
+    width: 60%;
+    margin-left: auto;
+    height: 100vh;
+    display: flex;
+}
+
+.img-div1{
+
+    display: flex;
+    justify-content: center;
+}
+
+.img{
+    height: 300px;
+    margin: 2rem;
+
+}
+
+.sub-title{
+
+}
